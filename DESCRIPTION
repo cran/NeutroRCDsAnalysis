@@ -1,12 +1,15 @@
 Package: NeutroRCDsAnalysis
 Type: Package
 Title: Neutrosophic Analysis of Row Column Designs
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     c(
       person("Neethu", "R.S.",
              email = "neethurs37@gmail.com",
              role = c("aut", "ctb")),
+      person("Boyina", "Devi Priyanka",
+        email = "boyinadevipriyanka@gmail.com",
+        role = c("aut", "ctb")),
       person("Cini", "Varghese",
              email = "cini2204@gmail.com",
              role = c("aut", "ctb")),
@@ -39,11 +42,12 @@ Imports: MASS
 Config/roxygen2/version: 8.0.0
 RoxygenNote: 7.3.3
 NeedsCompilation: no
-Packaged: 2026-06-02 09:37:17 UTC; admin
+Packaged: 2026-06-10 11:57:12 UTC; admin
 Author: Neethu R.S. [aut, ctb],
+  Boyina Devi Priyanka [aut, ctb],
   Cini Varghese [aut, ctb],
   Mohd Harun [aut, ctb],
   Anindita Datta [aut, ctb],
   Vinaykumar L.N. [aut, cre]
 Repository: CRAN
-Date/Publication: 2026-06-08 17:50:26 UTC
+Date/Publication: 2026-06-10 12:10:17 UTC
